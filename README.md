@@ -87,6 +87,15 @@ sudo dnf install ImageMagick-devel libimagequant-devel lua-devel
 brew install imagemagick libimagequant lua
 ```
 
+### Arch Linux (AUR)
+
+Install directly from the AUR:
+
+```bash
+yay -S cwal16
+# or
+paru -S cwal16
+```
 
 ### Building from Source
 
